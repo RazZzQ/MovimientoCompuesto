@@ -1,0 +1,1 @@
+Arrow only has one texture.
